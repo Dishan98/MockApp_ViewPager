@@ -1,3 +1,3 @@
-# MockApp_ViewPager
+# ViewPager-Android
 
 Mock Application for the ViewPager in Android
